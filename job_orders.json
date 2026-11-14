@@ -1,0 +1,14 @@
+[
+  {
+    "job_order": "JO-1001",
+    "product": "Pump Assembly"
+  },
+  {
+    "job_order": "JO-1002",
+    "product": "Valve Assembly"
+  },
+  {
+    "job_order": "JO-1003",
+    "product": "Industrial Fan"
+  }
+]
