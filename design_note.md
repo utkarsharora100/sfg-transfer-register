@@ -4,7 +4,7 @@
 - The three sites are represented as Plant 1, Plant 2 and Plant 3.
 - Each transfer records one SFG movement against a parent job order.
 - The receiving plant confirms delivery by entering the receiver name.
-- \`job_orders.json\` represents a sample export from the existing job-order system.
+- `job_orders.json` represents a sample export from the existing job-order system.
 
 ## Key decisions and trade-offs
 - The prototype uses Python's built-in HTTP server and SQLite, avoiding external package installation.
